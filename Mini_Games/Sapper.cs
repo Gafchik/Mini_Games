@@ -37,7 +37,7 @@ namespace Mini_Games
             panel_game = new Panel();
 
             close = new PictureBox();
-            close.Image = Image.FromFile($"{Directory.GetCurrentDirectory()}\\Img\\close.png");
+            close.Image = Image.FromFile($"{Directory.GetCurrentDirectory()}\\Img\\x.png");
 
             SuspendLayout();
 

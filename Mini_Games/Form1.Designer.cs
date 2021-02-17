@@ -203,6 +203,7 @@ namespace Mini_Games
             button_Sea_battle.Visible = true;
             button_X_O.Visible = true;
             main_lble.Visible = true;
+            this.FormBorderStyle = FormBorderStyle.SizableToolWindow;
         }
 
         #region переменные
