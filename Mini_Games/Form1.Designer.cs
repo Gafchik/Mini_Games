@@ -97,6 +97,7 @@ namespace Mini_Games
             button_Sea_battle.Text = "Sea Battle";
             button_Sea_battle.MouseHover += Button_Main_MouseHover;
             button_Sea_battle.MouseLeave += Button_Main_MouseLeave;
+            button_Sea_battle.Click += Button_Sea_battle_Click;
 
             #endregion
 
@@ -126,6 +127,8 @@ namespace Mini_Games
             #endregion
 
         }
+
+      
 
 
 
