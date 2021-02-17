@@ -57,6 +57,9 @@
     <Compile Include="Sapper.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Sea_Battle.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="X_O.cs">
       <SubType>Form</SubType>
     </Compile>
